@@ -14,6 +14,9 @@ window.geometry("500x500")
 # Changing the background color of our window
 window.config(bg="cyan")
 
+# providing a title to the form
+window.title("Registration Form")
+
 
 
 # This will run the mainloop
